@@ -1,0 +1,14 @@
+layout_spectrum: 0.8966547
+color:
+  saturation: 0.7813433
+  lightness: 0.02926749
+  brandStrength: 0.1669039
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#DCB972'
+    - '#D977D5'
+    - '#484012'
+  rhythmicContrast: 0.4189457
+typography_spectrum: 0.360215
+name: Anubel.com
